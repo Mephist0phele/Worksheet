@@ -1,0 +1,26 @@
+1. Web scraping
+2. Requests
+3. All of the above
+4. Spider
+5. tag.name
+6. html.parser
+7. design a test using selenese
+8. the url of first webelement associated with the ‘given xpath’
+9. ‘a’ number of lines
+10. <a> , <b> , <image>
+
+
+Q What is the main difference between a web scraper and a web crawler?
+
+answer :  main difference is that web crawlers usually focus on indexing the web while web scrapers extract or "scrape" data from webpages.
+
+Q What is ‘robots.txt’ file? What is the use of ‘robots.txt’ file?
+
+answer : A robots.txt file is a set of instructions for bots. This file is included in the source files of most websites. 
+Robots.txt files are mostly intended for managing the activities of good bots like web crawlers, since bad bots aren't likely to follow the instructions.
+
+Q What are static and dynamic web pages?
+
+Anaswer : In static web pages, Pages will remain the same until someone changes it manually. Application and web languages used to create web page HTML, JavaScript, CSS, etc. 
+          Dynamic web pages are behavioral and have the capacity to produce distinctive content for different visitors Application and web languages used to create web page 
+          CGI, AJAX, ASP, ASP.NET, etc.
