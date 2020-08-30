@@ -1,0 +1,37 @@
+1.  set
+2.  _1
+3. _init_
+4. Left to Righ
+5. iii – iv – ii – i 
+6. 0
+7. x**4**4 
+8. int 
+9. A,B,D
+10. A,C,D
+
+
+ Q Differentiate between a list, tuple, set and dictionary
+ANSWER : Lists - for ordered sequence of objects
+         Tuple - can be considered as immutable list
+         Python Set - unique list
+         Python Dictionary / dict - pair of key and values
+
+
+
+
+ Q Are strings mutable in python? Suppose you have a string “I+Love+Python”, write a small code to replace ‘+’
+   with space in python.
+Answer :  no string are not mutable they are mutable in python 
+          str.replace("+", " " )
+
+
+
+
+
+
+
+ Q What does the function ord() do in python? Explain with example. Also, write down the function for getting
+   the datatype of a variable in python.
+ANSWER : ord() function in Python. Examples: Given a string of length one, return an integer representing the Unicode code point of the character 
+when the argument is a unicode object, or the value of the byte when the argument is an 8-bit string. 
+For example, ord(‘a’) returns the integer 97, ord(‘€’) (Euro sign) returns 8364.
