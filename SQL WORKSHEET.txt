@@ -1,0 +1,37 @@
+1 . A,D
+2 . A,B
+3 . Structured Query Language
+4 . Data Definition Language
+5 . Data Manipulation Language
+6 . Create Table A (B int,C float) 
+7 . Alter Table A ADD COLUMN D float
+8 . Delete D from A 
+9 . Alter Table A Alter Column D int
+10. Alter Table A Add Primary key B 
+
+Q 11. What is data-warehouse?
+Answer : Data warehousing is the electronic storage of a large amount of information by a business or organization.
+ Data warehouse is also used for reporting and data analysis, and is considered a core component of business intelligence
+
+Q 12. What is the difference between OLTP VS OLAP?
+Answer :  OLTP stands for Online Transaction Processing. It is a kind of data processing approach which involves the use of transaction-oriented tasks.
+          The database systems are used to perform online transactions and query processing.
+
+          OLAP stands for Online Analytical Processing Server. It is a software technology that allows users to analyze information 
+          from multiple database systems at the same time.OLAP databases are divided into one or more cubes and these cubes are known as Hyper-cubes.
+
+Q 13.  What are the various characteristics of data-warehouse?
+Answer :    1    Subject-oriented -A data warehouse is always a subject oriented as it delivers information about a theme instead of organization’s current operations.
+            2    Integrated –
+            3    Time-Variant –
+            4    Non-Volatile –
+
+
+Q 14.  What is Star-Schema?
+Answer : .  This schema is widely used to develop or build a data warehouse and dimensional data marts It includes one or more fact tables indexing any number of dimensional tables. 
+The star schema is a necessary case of the snowflake schema. It is also efficient for handling basic queries.
+
+Q 15. What do you mean by SETL?
+Answer : SETL is a very high-level programming language based on the mathematical theory of 
+sets.SETL provides two basic aggregate data types: unordered sets, and sequences (the latter also called tuples).
+SETL provides several iterators to produce a variety of loops over aggregate data structures
