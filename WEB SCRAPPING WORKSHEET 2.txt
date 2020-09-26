@@ -1,0 +1,13 @@
+1 . find_all() 
+2 .  Unix
+3 . ASP
+4 . send_keys()
+5 . Crawling
+6 . Web-spider
+7 . WebDriverWait
+8 . verifyelement
+9 . XML
+10. find_element_by_id
+11. class
+12. A,B,C
+13. A,B,C
